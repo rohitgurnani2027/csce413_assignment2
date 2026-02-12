@@ -1,3 +1,7 @@
 {"timestamp": "2026-01-05T15:47:39.322396", "event": "connection", "client_ip": "172.20.0.1", "client_port": 40642}
 {"timestamp": "2026-01-05T15:47:47.059106", "event": "connection", "client_ip": "172.20.0.1", "client_port": 39300}
 {"timestamp": "2026-01-05T15:58:47.101147", "event": "connection", "client_ip": "172.20.0.1", "client_port": 58506}
+{"timestamp": "2026-02-12T05:21:30.173496", "source_ip": "192.168.65.1", "source_port": 54311, "event_type": "connection_start", "message": "New connection established"}
+{"timestamp": "2026-02-12T05:21:30.676424", "source_ip": "192.168.65.1", "source_port": 54311, "event_type": "connection_end", "duration_seconds": 0.503093, "message": "Connection closed after 0.50 seconds"}
+{"timestamp": "2026-02-12T05:21:43.849597", "source_ip": "192.168.65.1", "source_port": 20827, "event_type": "connection_start", "message": "New connection established"}
+{"timestamp": "2026-02-12T05:21:44.352132", "source_ip": "192.168.65.1", "source_port": 20827, "event_type": "connection_end", "duration_seconds": 0.502686, "message": "Connection closed after 0.50 seconds"}

@@ -1,0 +1,39 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+*.egg-info/
+dist/
+build/
+
+# Logs (keep honeypot logs as they're part of deliverables)
+*.log
+# Keep honeypot logs for analysis
+!honeypot/logs/connections.jsonl
+
+# Capture files (generated, not source code)
+*.pcap
+*.cap
+mitm/capture.log
+mitm/analysis.txt
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Generated PDFs (keep source markdown)
+*.pdf
+
+# Temporary files
+*.tmp
+*.bak
+
